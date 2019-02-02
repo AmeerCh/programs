@@ -1,0 +1,5 @@
+print('To find the sum of two numbers, ', end = "")
+Number1 = int(input('enter the first number:'))
+Number2 = int(input('Enter the second number:'))
+Sum = (Number1) + (Number2)
+print('The sum of {0} and {1} is {2}'.format(Number1, Number2,Sum))
